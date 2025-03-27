@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "musicplayer.client", "musicplayer.client\musicplayer.client.esproj", "{89B18C58-AEEB-324D-6704-A06E2142F079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicPlayer.Server", "MusicPlayer.Server\MusicPlayer.Server.csproj", "{4588C227-8611-4D4B-B955-DA301D8D345D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B18C58-AEEB-324D-6704-A06E2142F079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B18C58-AEEB-324D-6704-A06E2142F079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B18C58-AEEB-324D-6704-A06E2142F079}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{89B18C58-AEEB-324D-6704-A06E2142F079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B18C58-AEEB-324D-6704-A06E2142F079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89B18C58-AEEB-324D-6704-A06E2142F079}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4588C227-8611-4D4B-B955-DA301D8D345D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4588C227-8611-4D4B-B955-DA301D8D345D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4588C227-8611-4D4B-B955-DA301D8D345D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4588C227-8611-4D4B-B955-DA301D8D345D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4322A217-7D3D-4124-B484-3EE835E25F84}
+	EndGlobalSection
+EndGlobal
